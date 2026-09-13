@@ -25,3 +25,4 @@ outputs/*
 !artifacts/colab/sku_mapping.json
 !artifacts/colab/embedding_preprocessing.json
 !artifacts/colab/thresholds.json
+!artifacts/colab/ShelfSense_Training.ipynb
