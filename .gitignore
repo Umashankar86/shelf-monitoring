@@ -17,3 +17,11 @@ data/runtime/*
 outputs/*
 !outputs/.gitkeep
 *.log
+!artifacts/colab/best.pt
+!artifacts/colab/yolov12m_sku110k.onnx
+!artifacts/colab/mobilenetv3_embedding.onnx
+!artifacts/colab/mobilenetv3_embedding.onnx.data
+!artifacts/colab/sku_index.faiss
+!artifacts/colab/sku_mapping.json
+!artifacts/colab/embedding_preprocessing.json
+!artifacts/colab/thresholds.json

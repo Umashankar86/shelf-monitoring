@@ -1,0 +1,4 @@
+artifacts/colab/*.pt filter=lfs diff=lfs merge=lfs -text
+artifacts/colab/*.onnx filter=lfs diff=lfs merge=lfs -text
+artifacts/colab/*.onnx.data filter=lfs diff=lfs merge=lfs -text
+artifacts/colab/*.faiss filter=lfs diff=lfs merge=lfs -text

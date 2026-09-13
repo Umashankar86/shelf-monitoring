@@ -1,0 +1,1202 @@
+{
+    "0": {
+        "sku_id": "sku_001",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_001/000.jpg"
+    },
+    "1": {
+        "sku_id": "sku_001",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_001/001.jpg"
+    },
+    "2": {
+        "sku_id": "sku_001",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_001/002.jpg"
+    },
+    "3": {
+        "sku_id": "sku_001",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_001/003.jpg"
+    },
+    "4": {
+        "sku_id": "sku_001",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_001/004.jpg"
+    },
+    "5": {
+        "sku_id": "sku_001",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_001/005.jpg"
+    },
+    "6": {
+        "sku_id": "sku_001",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_001/006.jpg"
+    },
+    "7": {
+        "sku_id": "sku_001",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_001/007.jpg"
+    },
+    "8": {
+        "sku_id": "sku_001",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_001/008.jpg"
+    },
+    "9": {
+        "sku_id": "sku_001",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_001/009.jpg"
+    },
+    "10": {
+        "sku_id": "sku_001",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_001/010.jpg"
+    },
+    "11": {
+        "sku_id": "sku_001",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_001/011.jpg"
+    },
+    "12": {
+        "sku_id": "sku_001",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_001/012.jpg"
+    },
+    "13": {
+        "sku_id": "sku_001",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_001/013.jpg"
+    },
+    "14": {
+        "sku_id": "sku_001",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_001/014.jpg"
+    },
+    "15": {
+        "sku_id": "sku_049",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_049/000.jpg"
+    },
+    "16": {
+        "sku_id": "sku_049",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_049/001.jpg"
+    },
+    "17": {
+        "sku_id": "sku_049",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_049/002.jpg"
+    },
+    "18": {
+        "sku_id": "sku_049",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_049/003.jpg"
+    },
+    "19": {
+        "sku_id": "sku_049",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_049/004.jpg"
+    },
+    "20": {
+        "sku_id": "sku_049",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_049/005.jpg"
+    },
+    "21": {
+        "sku_id": "sku_049",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_049/006.jpg"
+    },
+    "22": {
+        "sku_id": "sku_049",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_049/007.jpg"
+    },
+    "23": {
+        "sku_id": "sku_049",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_049/008.jpg"
+    },
+    "24": {
+        "sku_id": "sku_049",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_049/009.jpg"
+    },
+    "25": {
+        "sku_id": "sku_049",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_049/010.jpg"
+    },
+    "26": {
+        "sku_id": "sku_049",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_049/011.jpg"
+    },
+    "27": {
+        "sku_id": "sku_049",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_049/012.jpg"
+    },
+    "28": {
+        "sku_id": "sku_049",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_049/013.jpg"
+    },
+    "29": {
+        "sku_id": "sku_049",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_049/014.jpg"
+    },
+    "30": {
+        "sku_id": "sku_053",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_053/000.jpg"
+    },
+    "31": {
+        "sku_id": "sku_053",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_053/001.jpg"
+    },
+    "32": {
+        "sku_id": "sku_053",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_053/002.jpg"
+    },
+    "33": {
+        "sku_id": "sku_053",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_053/003.jpg"
+    },
+    "34": {
+        "sku_id": "sku_053",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_053/004.jpg"
+    },
+    "35": {
+        "sku_id": "sku_053",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_053/005.jpg"
+    },
+    "36": {
+        "sku_id": "sku_053",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_053/006.jpg"
+    },
+    "37": {
+        "sku_id": "sku_053",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_053/007.jpg"
+    },
+    "38": {
+        "sku_id": "sku_053",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_053/008.jpg"
+    },
+    "39": {
+        "sku_id": "sku_053",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_053/009.jpg"
+    },
+    "40": {
+        "sku_id": "sku_053",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_053/010.jpg"
+    },
+    "41": {
+        "sku_id": "sku_053",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_053/011.jpg"
+    },
+    "42": {
+        "sku_id": "sku_053",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_053/012.jpg"
+    },
+    "43": {
+        "sku_id": "sku_053",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_053/013.jpg"
+    },
+    "44": {
+        "sku_id": "sku_053",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_053/014.jpg"
+    },
+    "45": {
+        "sku_id": "sku_061",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_061/000.jpg"
+    },
+    "46": {
+        "sku_id": "sku_061",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_061/001.jpg"
+    },
+    "47": {
+        "sku_id": "sku_061",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_061/002.jpg"
+    },
+    "48": {
+        "sku_id": "sku_061",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_061/003.jpg"
+    },
+    "49": {
+        "sku_id": "sku_061",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_061/004.jpg"
+    },
+    "50": {
+        "sku_id": "sku_061",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_061/005.jpg"
+    },
+    "51": {
+        "sku_id": "sku_061",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_061/006.jpg"
+    },
+    "52": {
+        "sku_id": "sku_061",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_061/007.jpg"
+    },
+    "53": {
+        "sku_id": "sku_061",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_061/008.jpg"
+    },
+    "54": {
+        "sku_id": "sku_061",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_061/009.jpg"
+    },
+    "55": {
+        "sku_id": "sku_061",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_061/010.jpg"
+    },
+    "56": {
+        "sku_id": "sku_061",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_061/011.jpg"
+    },
+    "57": {
+        "sku_id": "sku_061",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_061/012.jpg"
+    },
+    "58": {
+        "sku_id": "sku_061",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_061/013.jpg"
+    },
+    "59": {
+        "sku_id": "sku_061",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_061/014.jpg"
+    },
+    "60": {
+        "sku_id": "sku_062",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_062/000.jpg"
+    },
+    "61": {
+        "sku_id": "sku_062",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_062/001.jpg"
+    },
+    "62": {
+        "sku_id": "sku_062",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_062/002.jpg"
+    },
+    "63": {
+        "sku_id": "sku_062",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_062/003.jpg"
+    },
+    "64": {
+        "sku_id": "sku_062",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_062/004.jpg"
+    },
+    "65": {
+        "sku_id": "sku_062",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_062/005.jpg"
+    },
+    "66": {
+        "sku_id": "sku_062",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_062/006.jpg"
+    },
+    "67": {
+        "sku_id": "sku_062",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_062/007.jpg"
+    },
+    "68": {
+        "sku_id": "sku_062",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_062/008.jpg"
+    },
+    "69": {
+        "sku_id": "sku_062",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_062/009.jpg"
+    },
+    "70": {
+        "sku_id": "sku_062",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_062/010.jpg"
+    },
+    "71": {
+        "sku_id": "sku_062",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_062/011.jpg"
+    },
+    "72": {
+        "sku_id": "sku_062",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_062/012.jpg"
+    },
+    "73": {
+        "sku_id": "sku_062",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_062/013.jpg"
+    },
+    "74": {
+        "sku_id": "sku_062",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_062/014.jpg"
+    },
+    "75": {
+        "sku_id": "sku_069",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_069/000.jpg"
+    },
+    "76": {
+        "sku_id": "sku_069",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_069/001.jpg"
+    },
+    "77": {
+        "sku_id": "sku_069",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_069/002.jpg"
+    },
+    "78": {
+        "sku_id": "sku_069",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_069/003.jpg"
+    },
+    "79": {
+        "sku_id": "sku_069",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_069/004.jpg"
+    },
+    "80": {
+        "sku_id": "sku_069",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_069/005.jpg"
+    },
+    "81": {
+        "sku_id": "sku_069",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_069/006.jpg"
+    },
+    "82": {
+        "sku_id": "sku_069",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_069/007.jpg"
+    },
+    "83": {
+        "sku_id": "sku_069",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_069/008.jpg"
+    },
+    "84": {
+        "sku_id": "sku_069",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_069/009.jpg"
+    },
+    "85": {
+        "sku_id": "sku_069",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_069/010.jpg"
+    },
+    "86": {
+        "sku_id": "sku_069",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_069/011.jpg"
+    },
+    "87": {
+        "sku_id": "sku_069",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_069/012.jpg"
+    },
+    "88": {
+        "sku_id": "sku_069",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_069/013.jpg"
+    },
+    "89": {
+        "sku_id": "sku_069",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_069/014.jpg"
+    },
+    "90": {
+        "sku_id": "sku_071",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_071/000.jpg"
+    },
+    "91": {
+        "sku_id": "sku_071",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_071/001.jpg"
+    },
+    "92": {
+        "sku_id": "sku_071",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_071/002.jpg"
+    },
+    "93": {
+        "sku_id": "sku_071",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_071/003.jpg"
+    },
+    "94": {
+        "sku_id": "sku_071",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_071/004.jpg"
+    },
+    "95": {
+        "sku_id": "sku_071",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_071/005.jpg"
+    },
+    "96": {
+        "sku_id": "sku_071",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_071/006.jpg"
+    },
+    "97": {
+        "sku_id": "sku_071",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_071/007.jpg"
+    },
+    "98": {
+        "sku_id": "sku_071",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_071/008.jpg"
+    },
+    "99": {
+        "sku_id": "sku_071",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_071/009.jpg"
+    },
+    "100": {
+        "sku_id": "sku_071",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_071/010.jpg"
+    },
+    "101": {
+        "sku_id": "sku_071",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_071/011.jpg"
+    },
+    "102": {
+        "sku_id": "sku_071",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_071/012.jpg"
+    },
+    "103": {
+        "sku_id": "sku_071",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_071/013.jpg"
+    },
+    "104": {
+        "sku_id": "sku_071",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_071/014.jpg"
+    },
+    "105": {
+        "sku_id": "sku_086",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_086/000.jpg"
+    },
+    "106": {
+        "sku_id": "sku_086",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_086/001.jpg"
+    },
+    "107": {
+        "sku_id": "sku_086",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_086/002.jpg"
+    },
+    "108": {
+        "sku_id": "sku_086",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_086/003.jpg"
+    },
+    "109": {
+        "sku_id": "sku_086",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_086/004.jpg"
+    },
+    "110": {
+        "sku_id": "sku_086",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_086/005.jpg"
+    },
+    "111": {
+        "sku_id": "sku_086",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_086/006.jpg"
+    },
+    "112": {
+        "sku_id": "sku_086",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_086/007.jpg"
+    },
+    "113": {
+        "sku_id": "sku_086",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_086/008.jpg"
+    },
+    "114": {
+        "sku_id": "sku_086",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_086/009.jpg"
+    },
+    "115": {
+        "sku_id": "sku_086",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_086/010.jpg"
+    },
+    "116": {
+        "sku_id": "sku_086",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_086/011.jpg"
+    },
+    "117": {
+        "sku_id": "sku_086",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_086/012.jpg"
+    },
+    "118": {
+        "sku_id": "sku_086",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_086/013.jpg"
+    },
+    "119": {
+        "sku_id": "sku_086",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_086/014.jpg"
+    },
+    "120": {
+        "sku_id": "sku_091",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_091/000.jpg"
+    },
+    "121": {
+        "sku_id": "sku_091",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_091/001.jpg"
+    },
+    "122": {
+        "sku_id": "sku_091",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_091/002.jpg"
+    },
+    "123": {
+        "sku_id": "sku_091",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_091/003.jpg"
+    },
+    "124": {
+        "sku_id": "sku_091",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_091/004.jpg"
+    },
+    "125": {
+        "sku_id": "sku_091",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_091/005.jpg"
+    },
+    "126": {
+        "sku_id": "sku_091",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_091/006.jpg"
+    },
+    "127": {
+        "sku_id": "sku_091",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_091/007.jpg"
+    },
+    "128": {
+        "sku_id": "sku_091",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_091/008.jpg"
+    },
+    "129": {
+        "sku_id": "sku_091",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_091/009.jpg"
+    },
+    "130": {
+        "sku_id": "sku_091",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_091/010.jpg"
+    },
+    "131": {
+        "sku_id": "sku_091",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_091/011.jpg"
+    },
+    "132": {
+        "sku_id": "sku_091",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_091/012.jpg"
+    },
+    "133": {
+        "sku_id": "sku_091",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_091/013.jpg"
+    },
+    "134": {
+        "sku_id": "sku_091",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_091/014.jpg"
+    },
+    "135": {
+        "sku_id": "sku_102",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_102/000.jpg"
+    },
+    "136": {
+        "sku_id": "sku_102",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_102/001.jpg"
+    },
+    "137": {
+        "sku_id": "sku_102",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_102/002.jpg"
+    },
+    "138": {
+        "sku_id": "sku_102",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_102/003.jpg"
+    },
+    "139": {
+        "sku_id": "sku_102",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_102/004.jpg"
+    },
+    "140": {
+        "sku_id": "sku_102",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_102/005.jpg"
+    },
+    "141": {
+        "sku_id": "sku_102",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_102/006.jpg"
+    },
+    "142": {
+        "sku_id": "sku_102",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_102/007.jpg"
+    },
+    "143": {
+        "sku_id": "sku_102",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_102/008.jpg"
+    },
+    "144": {
+        "sku_id": "sku_102",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_102/009.jpg"
+    },
+    "145": {
+        "sku_id": "sku_102",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_102/010.jpg"
+    },
+    "146": {
+        "sku_id": "sku_102",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_102/011.jpg"
+    },
+    "147": {
+        "sku_id": "sku_102",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_102/012.jpg"
+    },
+    "148": {
+        "sku_id": "sku_102",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_102/013.jpg"
+    },
+    "149": {
+        "sku_id": "sku_102",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_102/014.jpg"
+    },
+    "150": {
+        "sku_id": "sku_110",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_110/000.jpg"
+    },
+    "151": {
+        "sku_id": "sku_110",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_110/001.jpg"
+    },
+    "152": {
+        "sku_id": "sku_110",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_110/002.jpg"
+    },
+    "153": {
+        "sku_id": "sku_110",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_110/003.jpg"
+    },
+    "154": {
+        "sku_id": "sku_110",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_110/004.jpg"
+    },
+    "155": {
+        "sku_id": "sku_110",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_110/005.jpg"
+    },
+    "156": {
+        "sku_id": "sku_110",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_110/006.jpg"
+    },
+    "157": {
+        "sku_id": "sku_110",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_110/007.jpg"
+    },
+    "158": {
+        "sku_id": "sku_110",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_110/008.jpg"
+    },
+    "159": {
+        "sku_id": "sku_110",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_110/009.jpg"
+    },
+    "160": {
+        "sku_id": "sku_110",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_110/010.jpg"
+    },
+    "161": {
+        "sku_id": "sku_110",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_110/011.jpg"
+    },
+    "162": {
+        "sku_id": "sku_110",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_110/012.jpg"
+    },
+    "163": {
+        "sku_id": "sku_110",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_110/013.jpg"
+    },
+    "164": {
+        "sku_id": "sku_110",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_110/014.jpg"
+    },
+    "165": {
+        "sku_id": "sku_111",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_111/000.jpg"
+    },
+    "166": {
+        "sku_id": "sku_111",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_111/001.jpg"
+    },
+    "167": {
+        "sku_id": "sku_111",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_111/002.jpg"
+    },
+    "168": {
+        "sku_id": "sku_111",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_111/003.jpg"
+    },
+    "169": {
+        "sku_id": "sku_111",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_111/004.jpg"
+    },
+    "170": {
+        "sku_id": "sku_111",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_111/005.jpg"
+    },
+    "171": {
+        "sku_id": "sku_111",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_111/006.jpg"
+    },
+    "172": {
+        "sku_id": "sku_111",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_111/007.jpg"
+    },
+    "173": {
+        "sku_id": "sku_111",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_111/008.jpg"
+    },
+    "174": {
+        "sku_id": "sku_111",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_111/009.jpg"
+    },
+    "175": {
+        "sku_id": "sku_111",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_111/010.jpg"
+    },
+    "176": {
+        "sku_id": "sku_111",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_111/011.jpg"
+    },
+    "177": {
+        "sku_id": "sku_111",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_111/012.jpg"
+    },
+    "178": {
+        "sku_id": "sku_111",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_111/013.jpg"
+    },
+    "179": {
+        "sku_id": "sku_111",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_111/014.jpg"
+    },
+    "180": {
+        "sku_id": "sku_119",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_119/000.jpg"
+    },
+    "181": {
+        "sku_id": "sku_119",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_119/001.jpg"
+    },
+    "182": {
+        "sku_id": "sku_119",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_119/002.jpg"
+    },
+    "183": {
+        "sku_id": "sku_119",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_119/003.jpg"
+    },
+    "184": {
+        "sku_id": "sku_119",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_119/004.jpg"
+    },
+    "185": {
+        "sku_id": "sku_119",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_119/005.jpg"
+    },
+    "186": {
+        "sku_id": "sku_119",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_119/006.jpg"
+    },
+    "187": {
+        "sku_id": "sku_119",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_119/007.jpg"
+    },
+    "188": {
+        "sku_id": "sku_119",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_119/008.jpg"
+    },
+    "189": {
+        "sku_id": "sku_119",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_119/009.jpg"
+    },
+    "190": {
+        "sku_id": "sku_119",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_119/010.jpg"
+    },
+    "191": {
+        "sku_id": "sku_119",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_119/011.jpg"
+    },
+    "192": {
+        "sku_id": "sku_119",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_119/012.jpg"
+    },
+    "193": {
+        "sku_id": "sku_119",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_119/013.jpg"
+    },
+    "194": {
+        "sku_id": "sku_119",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_119/014.jpg"
+    },
+    "195": {
+        "sku_id": "sku_140",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_140/000.jpg"
+    },
+    "196": {
+        "sku_id": "sku_140",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_140/001.jpg"
+    },
+    "197": {
+        "sku_id": "sku_140",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_140/002.jpg"
+    },
+    "198": {
+        "sku_id": "sku_140",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_140/003.jpg"
+    },
+    "199": {
+        "sku_id": "sku_140",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_140/004.jpg"
+    },
+    "200": {
+        "sku_id": "sku_140",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_140/005.jpg"
+    },
+    "201": {
+        "sku_id": "sku_140",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_140/006.jpg"
+    },
+    "202": {
+        "sku_id": "sku_140",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_140/007.jpg"
+    },
+    "203": {
+        "sku_id": "sku_140",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_140/008.jpg"
+    },
+    "204": {
+        "sku_id": "sku_140",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_140/009.jpg"
+    },
+    "205": {
+        "sku_id": "sku_140",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_140/010.jpg"
+    },
+    "206": {
+        "sku_id": "sku_140",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_140/011.jpg"
+    },
+    "207": {
+        "sku_id": "sku_140",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_140/012.jpg"
+    },
+    "208": {
+        "sku_id": "sku_140",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_140/013.jpg"
+    },
+    "209": {
+        "sku_id": "sku_140",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_140/014.jpg"
+    },
+    "210": {
+        "sku_id": "sku_147",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_147/000.jpg"
+    },
+    "211": {
+        "sku_id": "sku_147",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_147/001.jpg"
+    },
+    "212": {
+        "sku_id": "sku_147",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_147/002.jpg"
+    },
+    "213": {
+        "sku_id": "sku_147",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_147/003.jpg"
+    },
+    "214": {
+        "sku_id": "sku_147",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_147/004.jpg"
+    },
+    "215": {
+        "sku_id": "sku_147",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_147/005.jpg"
+    },
+    "216": {
+        "sku_id": "sku_147",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_147/006.jpg"
+    },
+    "217": {
+        "sku_id": "sku_147",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_147/007.jpg"
+    },
+    "218": {
+        "sku_id": "sku_147",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_147/008.jpg"
+    },
+    "219": {
+        "sku_id": "sku_147",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_147/009.jpg"
+    },
+    "220": {
+        "sku_id": "sku_147",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_147/010.jpg"
+    },
+    "221": {
+        "sku_id": "sku_147",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_147/011.jpg"
+    },
+    "222": {
+        "sku_id": "sku_147",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_147/012.jpg"
+    },
+    "223": {
+        "sku_id": "sku_147",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_147/013.jpg"
+    },
+    "224": {
+        "sku_id": "sku_147",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_147/014.jpg"
+    },
+    "225": {
+        "sku_id": "sku_157",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_157/000.jpg"
+    },
+    "226": {
+        "sku_id": "sku_157",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_157/001.jpg"
+    },
+    "227": {
+        "sku_id": "sku_157",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_157/002.jpg"
+    },
+    "228": {
+        "sku_id": "sku_157",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_157/003.jpg"
+    },
+    "229": {
+        "sku_id": "sku_157",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_157/004.jpg"
+    },
+    "230": {
+        "sku_id": "sku_157",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_157/005.jpg"
+    },
+    "231": {
+        "sku_id": "sku_157",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_157/006.jpg"
+    },
+    "232": {
+        "sku_id": "sku_157",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_157/007.jpg"
+    },
+    "233": {
+        "sku_id": "sku_157",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_157/008.jpg"
+    },
+    "234": {
+        "sku_id": "sku_157",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_157/009.jpg"
+    },
+    "235": {
+        "sku_id": "sku_157",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_157/010.jpg"
+    },
+    "236": {
+        "sku_id": "sku_157",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_157/011.jpg"
+    },
+    "237": {
+        "sku_id": "sku_157",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_157/012.jpg"
+    },
+    "238": {
+        "sku_id": "sku_157",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_157/013.jpg"
+    },
+    "239": {
+        "sku_id": "sku_157",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_157/014.jpg"
+    },
+    "240": {
+        "sku_id": "sku_171",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_171/000.jpg"
+    },
+    "241": {
+        "sku_id": "sku_171",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_171/001.jpg"
+    },
+    "242": {
+        "sku_id": "sku_171",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_171/002.jpg"
+    },
+    "243": {
+        "sku_id": "sku_171",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_171/003.jpg"
+    },
+    "244": {
+        "sku_id": "sku_171",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_171/004.jpg"
+    },
+    "245": {
+        "sku_id": "sku_171",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_171/005.jpg"
+    },
+    "246": {
+        "sku_id": "sku_171",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_171/006.jpg"
+    },
+    "247": {
+        "sku_id": "sku_171",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_171/007.jpg"
+    },
+    "248": {
+        "sku_id": "sku_171",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_171/008.jpg"
+    },
+    "249": {
+        "sku_id": "sku_171",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_171/009.jpg"
+    },
+    "250": {
+        "sku_id": "sku_171",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_171/010.jpg"
+    },
+    "251": {
+        "sku_id": "sku_171",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_171/011.jpg"
+    },
+    "252": {
+        "sku_id": "sku_171",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_171/012.jpg"
+    },
+    "253": {
+        "sku_id": "sku_171",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_171/013.jpg"
+    },
+    "254": {
+        "sku_id": "sku_171",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_171/014.jpg"
+    },
+    "255": {
+        "sku_id": "sku_176",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_176/000.jpg"
+    },
+    "256": {
+        "sku_id": "sku_176",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_176/001.jpg"
+    },
+    "257": {
+        "sku_id": "sku_176",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_176/002.jpg"
+    },
+    "258": {
+        "sku_id": "sku_176",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_176/003.jpg"
+    },
+    "259": {
+        "sku_id": "sku_176",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_176/004.jpg"
+    },
+    "260": {
+        "sku_id": "sku_176",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_176/005.jpg"
+    },
+    "261": {
+        "sku_id": "sku_176",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_176/006.jpg"
+    },
+    "262": {
+        "sku_id": "sku_176",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_176/007.jpg"
+    },
+    "263": {
+        "sku_id": "sku_176",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_176/008.jpg"
+    },
+    "264": {
+        "sku_id": "sku_176",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_176/009.jpg"
+    },
+    "265": {
+        "sku_id": "sku_176",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_176/010.jpg"
+    },
+    "266": {
+        "sku_id": "sku_176",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_176/011.jpg"
+    },
+    "267": {
+        "sku_id": "sku_176",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_176/012.jpg"
+    },
+    "268": {
+        "sku_id": "sku_176",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_176/013.jpg"
+    },
+    "269": {
+        "sku_id": "sku_176",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_176/014.jpg"
+    },
+    "270": {
+        "sku_id": "sku_187",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_187/000.jpg"
+    },
+    "271": {
+        "sku_id": "sku_187",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_187/001.jpg"
+    },
+    "272": {
+        "sku_id": "sku_187",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_187/002.jpg"
+    },
+    "273": {
+        "sku_id": "sku_187",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_187/003.jpg"
+    },
+    "274": {
+        "sku_id": "sku_187",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_187/004.jpg"
+    },
+    "275": {
+        "sku_id": "sku_187",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_187/005.jpg"
+    },
+    "276": {
+        "sku_id": "sku_187",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_187/006.jpg"
+    },
+    "277": {
+        "sku_id": "sku_187",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_187/007.jpg"
+    },
+    "278": {
+        "sku_id": "sku_187",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_187/008.jpg"
+    },
+    "279": {
+        "sku_id": "sku_187",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_187/009.jpg"
+    },
+    "280": {
+        "sku_id": "sku_187",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_187/010.jpg"
+    },
+    "281": {
+        "sku_id": "sku_187",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_187/011.jpg"
+    },
+    "282": {
+        "sku_id": "sku_187",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_187/012.jpg"
+    },
+    "283": {
+        "sku_id": "sku_187",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_187/013.jpg"
+    },
+    "284": {
+        "sku_id": "sku_187",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_187/014.jpg"
+    },
+    "285": {
+        "sku_id": "sku_193",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_193/000.jpg"
+    },
+    "286": {
+        "sku_id": "sku_193",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_193/001.jpg"
+    },
+    "287": {
+        "sku_id": "sku_193",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_193/002.jpg"
+    },
+    "288": {
+        "sku_id": "sku_193",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_193/003.jpg"
+    },
+    "289": {
+        "sku_id": "sku_193",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_193/004.jpg"
+    },
+    "290": {
+        "sku_id": "sku_193",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_193/005.jpg"
+    },
+    "291": {
+        "sku_id": "sku_193",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_193/006.jpg"
+    },
+    "292": {
+        "sku_id": "sku_193",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_193/007.jpg"
+    },
+    "293": {
+        "sku_id": "sku_193",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_193/008.jpg"
+    },
+    "294": {
+        "sku_id": "sku_193",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_193/009.jpg"
+    },
+    "295": {
+        "sku_id": "sku_193",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_193/010.jpg"
+    },
+    "296": {
+        "sku_id": "sku_193",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_193/011.jpg"
+    },
+    "297": {
+        "sku_id": "sku_193",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_193/012.jpg"
+    },
+    "298": {
+        "sku_id": "sku_193",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_193/013.jpg"
+    },
+    "299": {
+        "sku_id": "sku_193",
+        "reference_image": "/content/drive/MyDrive/ShelfSense/reference_products_rpc/sku_193/014.jpg"
+    }
+}

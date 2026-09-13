@@ -1,0 +1,18 @@
+{
+  "metric": "cosine_similarity",
+  "accept_condition": "score >= threshold",
+  "threshold": 0.6768789887428284,
+  "retrieval_top_k": 5,
+  "retrieval_rule": "majority_vote_then_mean_similarity",
+  "score_rule": "maximum_similarity_for_winning_sku",
+  "balanced_accuracy": 0.63,
+  "known_acceptance_rate": 0.39,
+  "unknown_rejection_rate": 0.87,
+  "known_sku_accuracy": 0.44,
+  "known_samples": 100,
+  "unknown_samples": 100,
+  "known_score_mean": 0.6588981229066849,
+  "unknown_score_mean": 0.6137934342026711,
+  "known_score_min": 0.4621264338493347,
+  "unknown_score_max": 0.7470826506614685
+}

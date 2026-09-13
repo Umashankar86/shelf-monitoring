@@ -1,0 +1,20 @@
+{
+    "input_size": [
+        224,
+        224
+    ],
+    "color_format": "RGB",
+    "pixel_scale": "0_to_1",
+    "mean": [
+        0.485,
+        0.456,
+        0.406
+    ],
+    "std": [
+        0.229,
+        0.224,
+        0.225
+    ],
+    "embedding_dimension": 960,
+    "normalization": "L2"
+}
