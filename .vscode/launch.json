@@ -1,0 +1,7 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {"name": "Shelfwatch dashboard", "type": "debugpy", "request": "launch", "module": "shelfwatch.cli", "args": ["serve"], "cwd": "${workspaceFolder}", "console": "integratedTerminal"},
+    {"name": "Validate Colab exports", "type": "debugpy", "request": "launch", "module": "shelfwatch.cli", "args": ["doctor"], "cwd": "${workspaceFolder}", "console": "integratedTerminal"}
+  ]
+}

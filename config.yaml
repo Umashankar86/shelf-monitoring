@@ -1,0 +1,38 @@
+# Paths resolve against this project, never against your terminal's current directory.
+artifacts: artifacts/colab
+references: artifacts/colab/data/references
+media: data/media
+planograms: data/planograms
+database: data/runtime/shelfwatch.sqlite3
+outputs: outputs
+detector:
+  file: yolov12m_sku110k.onnx
+  confidence: 0.35
+  nms_iou: 0.45
+  image_size: 640
+  max_detections: 1000
+embedding:
+  file: mobilenetv3_embedding.onnx
+  config: embedding_preprocessing.json
+  # Matches weights.transforms() in your supplied notebook (ImageNet V2).
+  preprocessing: torchvision_v2
+recognition:
+  format: shelvesense
+  index: sku_index.faiss
+  mapping: sku_mapping.json
+  labels: sku_index.labels.npy
+  metadata: index_metadata.json
+  thresholds: thresholds.json
+samples:
+  directory: artifacts/colab/data/media
+monitor:
+  min_inference_interval: 0.4
+  max_inference_interval: 2.0
+  change_threshold: 2.0
+  consecutive_observations: 3
+  persistence_seconds: 2.0
+  slot_min_overlap: 0.20
+  tracking_iou: 0.25
+  tracking_max_missed: 3
+  alignment: false
+  alignment_min_inliers: 12

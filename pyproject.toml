@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=70"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "proglint-shelfwatch"
+version = "0.1.0"
+description = "Local retail shelf monitoring with a replaceable Colab model bundle"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+  "fastapi>=0.115,<1", "uvicorn>=0.30,<1", "python-multipart>=0.0.20,<1",
+  "numpy>=1.26,<3", "opencv-python-headless>=4.10,<5", "scipy>=1.13,<2",
+  "onnxruntime>=1.20,<2", "faiss-cpu>=1.9,<2", "PyYAML>=6,<7",
+  "Pillow>=10,<13",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<10", "httpx>=0.27,<1", "ruff>=0.9,<1", "onnx>=1.17,<2"]
+torch = ["torch>=2.5", "torchvision>=0.20", "ultralytics>=8.3,<9"]
+openvino = ["openvino>=2024.4"]
+
+[project.scripts]
+shelfwatch = "shelfwatch.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["shelfwatch*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 110
